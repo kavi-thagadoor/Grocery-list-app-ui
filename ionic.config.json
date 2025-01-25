@@ -1,0 +1,7 @@
+{
+  "name": "grocery-list-dukan-list-kirane-ki-suchi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
